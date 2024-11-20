@@ -137,6 +137,7 @@ main{
     border-color: #000000; /* Color del borde para mayor uniformidad */
     border-width: 2px;
     transition: transform 0.2s ease, background-color 0.2s ease;
+    font-size: 2rem;
 }
 
 .especial:hover {
@@ -145,8 +146,10 @@ main{
     color: black; /* Mantiene el texto blanco */
     border-color: #000000;
     font-weight: bold;
+    
 }
 
 #output {
     height: 4rem; /* Ajusta al doble del tamaño original */
+    
 }
