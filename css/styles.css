@@ -13,7 +13,7 @@ main{
 .button-custom {
     width: 100%;
     height: 100%;
-    font-size: 5rem;
+    font-size: 4rem;
     white-space: nowrap; /* Evita que el texto se parta */
     overflow: hidden; /* Oculta contenido que desborda */
     text-overflow: ellipsis; /* Muestra puntos suspensivos si es necesario */
