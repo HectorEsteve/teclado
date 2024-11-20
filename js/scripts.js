@@ -10,11 +10,11 @@ document.addEventListener("DOMContentLoaded", function () {
             const char = this.textContent.trim(); // Obtiene el texto del botón presionado
 
             // Acciones según el botón presionado
-            if (char === "[ _ ]") {
+            if (char === "_") {
                 input.value += " "; // Agregar un espacio
-            } else if (char === "DEL") {
+            } else if (char === "d") {
                 input.value = input.value.slice(0, -1); // Borrar el último carácter
-            } else if (char === "D.ALL") {
+            } else if (char === "x") {
                 input.value = ""; // Borrar todo el texto
             } else {
                 input.value += char; // Agregar el carácter al final
