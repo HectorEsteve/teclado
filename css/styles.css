@@ -45,7 +45,7 @@ body{
 }
 
 .col-2 {
-    background-color: #a1f1a1; /* Color lima más claro */
+    background-color: white; /* Color lima más claro */
     transition: transform 0.2s ease, background-color 0.2s ease;
     color: black; /* Mantiene el texto blanco */
     border-color: #000000;
@@ -61,7 +61,7 @@ body{
 }
 
 .col-6 {
-    background-color: rgb(255, 212, 132); /* Color lima más claro */
+    background-color: white; /* Color lima más claro */
     color: black; /* Mantiene el texto blanco */
     border-color: #000000;
     font-weight: bold;
@@ -78,7 +78,7 @@ body{
 }
 
 .col-4 {
-    background-color: rgb(248, 156, 156); /* Color lima más claro */
+    background-color: white; /* Color lima más claro */
     color: black; /* Mantiene el texto blanco */
     border-color: #000000;
     font-weight: bold;
@@ -94,7 +94,7 @@ body{
 }
 
 .col-5 {
-    background-color: rgb(255, 141, 255); /* Color lima más claro */
+    background-color: white; /* Color lima más claro */
     color: black; /* Mantiene el texto blanco */
     border-color: #000000;
     font-weight: bold;
@@ -110,7 +110,7 @@ body{
 }
 
 .col-3{
-    background-color: rgb(145, 145, 255); /* Color lima más claro */
+    background-color: white; /* Color lima más claro */
     color: black; /* Mantiene el texto blanco */
     border-color: #000000;
     font-weight: bold;
@@ -126,7 +126,7 @@ body{
 }
 
 .col-7 {
-    background-color: rgb(255, 163, 214); /* Color lima más claro */
+    background-color: white; /* Color lima más claro */
     color: black; /* Mantiene el texto blanco */
     border-color: #000000;
     font-weight: bold;
